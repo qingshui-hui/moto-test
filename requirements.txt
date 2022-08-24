@@ -1,0 +1,10 @@
+pytest
+pynamodb
+boto3
+moto[all]
+moto[server]
+boto3-stubs[essential]
+boto3-stubs[stepfunctions]
+boto3-stubs[iam]
+black
+wheel
